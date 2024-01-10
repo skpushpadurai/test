@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 It includes now steps to edit in github
 
 adding pull 
+
+making changes to push it to github
